@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import numpy as np
 from collections import deque
 
@@ -138,16 +132,3 @@ puzzle.solve_dfs()
 
 # Print the solution path
 puzzle.print_solution()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
